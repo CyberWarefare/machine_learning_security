@@ -24,8 +24,4 @@ Source codes about machine learning and security.
  SAIVS is an artificial intelligence to find vulnerabilities in Web applications.  
  SAIVS was presented at **[Black Hat ASIA 2016 Arsenal](http://www.blackhat.com/asia-16/arsenal.html#saivs-spider-artificial-intelligence-vulnerability-scanner)**.  
 
-## Contact us
-
-Isao Takaesu  
-takaesu235@gmail.com  
-[https://twitter.com/bbr_bbq](https://twitter.com/bbr_bbq)
+##
